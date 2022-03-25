@@ -1,5 +1,5 @@
 {
-    "name": "kouz/laravel-airbrake",
+    "name": "naoki85/laravel-airbrake",
     "description": "Laravel service provider for Airbrake https://github.com/airbrake/phpbrake",
     "keywords": ["airbrake", "laravel"],
     "require": {
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Theo Kouzelis",
-            "email": "tkouzelis@outlook.com"
+            "name": "naoki85",
+            "email": "naoki.yoneyama.85@gmail.com"
         }
     ],
     "autoload": {
